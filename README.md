@@ -1,6 +1,7 @@
 # action-recognition
 these days I have  downed l lot of papers about action recognition,all of them are form cvpr  iccv  nip and so on
 TSD:    https://github.com/yjxiong/temporal-segment-networks
+
 TDD     https://github.com/wanglimin/TDD
 
 Action Recognition using Visual Attention  https:   //github.com/kracwarlock/action-recognition-visual-attention
