@@ -5,7 +5,7 @@ TSD:    https://github.com/yjxiong/temporal-segment-networks
 
 TDD     https://github.com/wanglimin/TDD
 
-Action Recognition using Visual Attention  https:   //github.com/kracwarlock/action-recognition-visual-attention
+Action Recognition using Visual Attention       https:   //github.com/kracwarlock/action-recognition-visual-attention
 
 
 C3D  caffe :      https://github.com/chuckcho/video-caffe
