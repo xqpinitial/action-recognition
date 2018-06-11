@@ -17,3 +17,7 @@ Two-Stream SR-CNNs          https://github.com/yifita/action.sr_cnn
 Categories via Spatial-Temporal Features    https://github.com/huajh/action_recognition
 
 Dynamic Image Networks  https://github.com/hbilen/dynamic-image-nets
+
+技术交流QQ群action_recognition：333571956
+
+
